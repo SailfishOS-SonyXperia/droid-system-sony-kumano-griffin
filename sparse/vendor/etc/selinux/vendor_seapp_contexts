@@ -1,0 +1,3 @@
+user=system seinfo=platform name=com.sony.timekeep domain=timekeep_app type=app_data_file
+user=_app seinfo=platform name=com.sony.qcrilam domain=qcrilam_app type=app_data_file
+user=_app seinfo=platform name=com.sony.opentelephony.modemconfig isPrivApp=true domain=modemconfig_app type=app_data_file
